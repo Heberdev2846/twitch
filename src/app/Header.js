@@ -14,14 +14,14 @@ function Header() {
             </a>
             <li className="mr-4">
               <a href="">
-                <p className="font-semibold text-sm">
+                <p className="hover:text-violet-500 font-semibold text-sm">
                   Siguiendo
                 </p>
               </a>
             </li>
             <li>
               <a href="">
-                <p className="font-semibold text-sm">
+                <p className="hover:text-violet-500 font-semibold text-sm">
                   Explorar
                 </p>
               </a>
@@ -187,7 +187,7 @@ function Header() {
               <li>
                 <img
                   className="w-7 rounded-full ml-4"
-                  src="/img/elforrex.jpg"
+                  src="/img/forrex2.png"
                 />
               </li>
             </a>
