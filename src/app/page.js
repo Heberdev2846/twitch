@@ -5,7 +5,7 @@ import Centro from "./Centro";
 
 export default function Home() {
   return (
-    <div className="flex">
+    <div>
       <Header />
       <Navbarizq />
       <Centro />
